@@ -1,5 +1,5 @@
 {
-    "name": "devgeniem/tms-plugin-network-site-list",
+    "name": "tampere/tms-plugin-network-site-list",
     "type": "wordpress-plugin",
     "license": "GPL-3.0-or-later",
     "description": "Provides a REST endpoint that lists the sites in a network installation.",
